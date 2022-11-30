@@ -3,8 +3,8 @@
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
-### Developed by:Dhivya shri
-### Reg no:21222123009
+### Developed by:BALIREDDY MAHALAKSHMI
+### Reg no:21222124008
 ### Procedure 
 Start the Quartus II Programmer.
 ![1](https://user-images.githubusercontent.com/94154679/204818877-ba9b8a2e-8239-4348-87f0-a2b53ede7edc.jpg)
